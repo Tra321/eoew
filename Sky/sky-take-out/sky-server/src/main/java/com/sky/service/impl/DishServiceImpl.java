@@ -100,9 +100,12 @@ public class DishServiceImpl implements DishService {
         }*/
 
         //根据菜品id集合批量删除菜品数据
-        dishMapper.deleteByIds(ids);
-        //根据菜品id集合批量删除关联的口味数据
-        dishFlavorMapper.deleteByDishIds(ids);
         //sql: delete from dish where id in (?,?,?,?)
+        dishMapper.deleteByIds(ids);
+
+
+        //根据菜品id集合批量删除关联的口味数据
+        //sql: delete from dish_flavor where dish_id in (?,?,?,?)
+        dishFlavorMapper.deleteByDishIds(ids);
     }
 }

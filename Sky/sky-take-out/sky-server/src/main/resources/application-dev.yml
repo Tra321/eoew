@@ -27,3 +27,7 @@ sky:
 #    weChatPayCertFilePath:
 #    notifyUrl: https://4a4af77b.r5.cpolar.cn +
 #    refundNotifyUrl: https://4a4af77b.r5.cpolar.cn +
+  shop:
+    address: 广东省深圳市南山区科技中一道100号
+  baidu:
+    ak: zr9DUXpkPcGQJKLwVBA8PJi7ytvCyyIZ

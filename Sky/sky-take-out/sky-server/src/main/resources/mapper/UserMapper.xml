@@ -8,7 +8,7 @@
         values (#{openid}, #{name}, #{phone}, #{sex}, #{idNumber}, #{avatar}, #{createTime})
     </insert>
 
-    <!-- <select id="countByMap" resultType="java.lang.Integer">
+    <select id="countByMap" resultType="java.lang.Integer">
         select count(id) from user
         <where>
             <if test="begin != null">
@@ -18,6 +18,6 @@
                 and create_time &lt; #{end}
             </if>
         </where>
-    </select> -->
+    </select>
 
 </mapper>

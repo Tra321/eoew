@@ -1,0 +1,33 @@
+sky:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    host: localhost
+    port: 3306
+    database: sky_take_out
+    username: root
+    password: Mysql135!
+#  阿里云OSS配置 Day03-06 TODO: 待补充
+  alioss:
+    endpoint:
+    access-key-id:
+    access-key-secret:
+    bucket-name:
+  redis:
+    host: localhost
+    port: 6379
+    password: 123456
+    database: 0
+  wechat:
+    appid: wx4159ca98e52e3134
+    secret: 0449a08508c2841e2ad924be8d2f9b04
+#    mchid:
+#    mchSerialNo:
+#    privateKeyFilePath:
+#    apiV3Key:
+#    weChatPayCertFilePath:
+#    notifyUrl: https://4a4af77b.r5.cpolar.cn +
+#    refundNotifyUrl: https://4a4af77b.r5.cpolar.cn +
+  shop:
+    address: 广东省深圳市南山区科技中一道100号
+  baidu:
+    ak: zr9DUXpkPcGQJKLwVBA8PJi7ytvCyyIZ

@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Adata\\Hub\\eoew\\C\u002B\u002B\\Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A39C3E95-B7D9-4217-87B2-C15D2EDBA348}|Lab.vcxproj|D:\\Adata\\Hub\\eoew\\C\u002B\u002B\\Lab\\lab01_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A39C3E95-B7D9-4217-87B2-C15D2EDBA348}|Lab.vcxproj|solutionrelative:lab01_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39C3E95-B7D9-4217-87B2-C15D2EDBA348}|Lab.vcxproj|D:\\Adata\\Hub\\eoew\\C\u002B\u002B\\Lab\\lab01_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A39C3E95-B7D9-4217-87B2-C15D2EDBA348}|Lab.vcxproj|solutionrelative:lab01_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab01_1.cpp",
+              "DocumentMoniker": "D:\\Adata\\Hub\\eoew\\C\u002B\u002B\\Lab\\lab01_1.cpp",
+              "RelativeDocumentMoniker": "lab01_1.cpp",
+              "ToolTip": "D:\\Adata\\Hub\\eoew\\C\u002B\u002B\\Lab\\lab01_1.cpp",
+              "RelativeToolTip": "lab01_1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-26T08:43:36.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab01_2.cpp",
+              "DocumentMoniker": "D:\\Adata\\Hub\\eoew\\C\u002B\u002B\\Lab\\lab01_2.cpp",
+              "RelativeDocumentMoniker": "lab01_2.cpp",
+              "ToolTip": "D:\\Adata\\Hub\\eoew\\C\u002B\u002B\\Lab\\lab01_2.cpp",
+              "RelativeToolTip": "lab01_2.cpp",
+              "ViewState": "AQIAACYAAAAAAAAAAAAMwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-26T08:40:35.545Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

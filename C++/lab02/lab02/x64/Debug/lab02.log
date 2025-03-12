@@ -1,0 +1,5 @@
+﻿  Main.cpp
+D:\Adata\Hub\eoew\C++\lab02\Main.cpp(58,39): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\Adata\Hub\eoew\C++\lab02\Main.cpp(58,39): warning C4305: “初始化”: 从“int”到“char”截断
+D:\Adata\Hub\eoew\C++\lab02\Main.cpp(58,39): warning C4309: “初始化”: 截断常量值
+  lab02.vcxproj -> D:\Adata\Hub\eoew\C++\lab02\x64\Debug\lab02.exe

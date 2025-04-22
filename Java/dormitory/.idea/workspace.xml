@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d2def6f-70e6-4932-8fc8-7324df08f7c7" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Gluttonous_Snake/.idea/Gluttonous_Snake.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dormitory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/mysql-connector-java-8.0.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daotest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/AdminDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/CourseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/ManagerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/StudentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/impl/AdminDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/impl/DormitoryDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/impl/ManagerDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/impl/StudentDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Dormitory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Live.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Manage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/AdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/ManagerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/until/AdminMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/until/BaseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/until/DormitoryControlMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/until/DormitoryLookMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/until/ManagerControlMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/until/ManagerLookMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/until/ManagerMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/until/StuMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/until/StudentControlMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/until/StudentLookMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabean5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabean5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabean5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabean5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabean5/javabean5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabean5/libs/mysql-connector-java-8.0.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabean5/src/Daotest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabean5/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabean5/src/dao/AdminDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabean5/src/dao/CourseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabean5/src/dao/StudentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabean5/src/dao/TeacherDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabean5/src/dao/impl/AdminDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabean5/src/dao/impl/CourseDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabean5/src/dao/impl/StudentDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabean5/src/dao/impl/TeacherDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabean5/src/model/admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabean5/src/model/choice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabean5/src/model/course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabean5/src/model/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabean5/src/model/teach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabean5/src/model/teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabean5/src/service/AdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabean5/src/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabean5/src/service/TeacherService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabean5/src/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabean5/src/until/AdminMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabean5/src/until/BaseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabean5/src/until/CourseControlMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabean5/src/until/CourseLookMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabean5/src/until/StuMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabean5/src/until/StudentControlMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabean5/src/until/StudentLookMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabean5/src/until/TeacherControlMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabean5/src/until/TeacherLookMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabean5/src/until/TeacherMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/libs/mysql-connector-java-8.0.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/src/Daotest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/src/Study5DaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/src/dao/AdminDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/src/dao/CourseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/src/dao/StudentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/src/dao/Study5Dao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/src/dao/TeacherDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/src/dao/impl/AdminDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/src/dao/impl/CourseDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/src/dao/impl/StudentDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/src/dao/impl/Study5DaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/src/dao/impl/TeacherDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/src/model/admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/src/model/choice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/src/model/course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/src/model/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/src/model/teach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/src/model/teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/src/service/AdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/src/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/src/service/TeacherService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/src/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/src/until/AdminMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/src/until/BaseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/src/until/CourseControlMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/src/until/CourseLookMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/src/until/StuMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/src/until/StudentControlMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/src/until/StudentLookMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/src/until/TeacherControlMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/src/until/TeacherLookMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/src/until/TeacherMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studydao5/studydao5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test05/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test05/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test05/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test05/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test05/libs/mysql-connector-java-8.0.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test05/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test05/src/dao/AdminDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test05/src/dao/StudentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test05/src/dao/TeacherDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test05/src/dao/impl/AdminDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test05/src/dao/impl/StudentDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test05/src/dao/impl/TeacherDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test05/src/model/admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test05/src/model/choice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test05/src/model/course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test05/src/model/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test05/src/model/teach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test05/src/model/teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test05/src/service/AdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test05/src/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test05/src/service/TeacherService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test05/src/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test05/src/until/AdminMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test05/src/until/BaseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test05/src/until/CourseControlMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test05/src/until/CourseLookMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test05/src/until/StuMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test05/src/until/StudentControlMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test05/src/until/StudentLookMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test05/src/until/TeacherControlMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test05/src/until/TeacherLookMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test05/src/until/TeacherMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test05/test05.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2vL8OMb9NhmdO6XLpNjaAIyrZb3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Adata/Hub/eoew/Java/dormitory/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.BaseDao.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Main.executor&quot;: &quot;Run&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Adata\Hub\eoew\Java\dormitory\src" />
+      <recent name="D:\Adata\Hub\eoew\Java\dormitory" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="0d2def6f-70e6-4932-8fc8-7324df08f7c7" name="更改" comment="" />
+      <created>1743912962862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743912962862</updated>
+      <workItem from="1743912963698" duration="4591000" />
+      <workItem from="1744247545518" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

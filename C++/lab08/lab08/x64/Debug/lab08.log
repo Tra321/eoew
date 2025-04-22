@@ -1,0 +1,4 @@
+﻿  BiTree.cpp
+  Main.cpp
+  正在生成代码...
+D:\Adata\Hub\eoew\C++\lab08\Main.cpp(20,1): error C4700: 使用了未初始化的局部变量“root”

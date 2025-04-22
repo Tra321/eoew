@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Adata\\Hub\\eoew\\C\u002B\u002B\\lab04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{871E528F-8073-497F-8C2B-054A44B37D19}|lab04.vcxproj|D:\\Adata\\Hub\\eoew\\C\u002B\u002B\\lab04\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{871E528F-8073-497F-8C2B-054A44B37D19}|lab04.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871E528F-8073-497F-8C2B-054A44B37D19}|lab04.vcxproj|D:\\Adata\\Hub\\eoew\\C\u002B\u002B\\lab04\\LinkStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{871E528F-8073-497F-8C2B-054A44B37D19}|lab04.vcxproj|solutionrelative:LinkStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871E528F-8073-497F-8C2B-054A44B37D19}|lab04.vcxproj|D:\\Adata\\Hub\\eoew\\C\u002B\u002B\\lab04\\LinkStack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{871E528F-8073-497F-8C2B-054A44B37D19}|lab04.vcxproj|solutionrelative:LinkStack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871E528F-8073-497F-8C2B-054A44B37D19}|lab04.vcxproj|D:\\Adata\\Hub\\eoew\\C\u002B\u002B\\lab04\\SqStack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{871E528F-8073-497F-8C2B-054A44B37D19}|lab04.vcxproj|solutionrelative:SqStack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871E528F-8073-497F-8C2B-054A44B37D19}|lab04.vcxproj|D:\\Adata\\Hub\\eoew\\C\u002B\u002B\\lab04\\SqStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{871E528F-8073-497F-8C2B-054A44B37D19}|lab04.vcxproj|solutionrelative:SqStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SqStack.h",
+              "DocumentMoniker": "D:\\Adata\\Hub\\eoew\\C\u002B\u002B\\lab04\\SqStack.h",
+              "RelativeDocumentMoniker": "SqStack.h",
+              "ToolTip": "D:\\Adata\\Hub\\eoew\\C\u002B\u002B\\lab04\\SqStack.h",
+              "RelativeToolTip": "SqStack.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-20T13:23:45.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SqStack.cpp",
+              "DocumentMoniker": "D:\\Adata\\Hub\\eoew\\C\u002B\u002B\\lab04\\SqStack.cpp",
+              "RelativeDocumentMoniker": "SqStack.cpp",
+              "ToolTip": "D:\\Adata\\Hub\\eoew\\C\u002B\u002B\\lab04\\SqStack.cpp",
+              "RelativeToolTip": "SqStack.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T13:23:44.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinkStack.h",
+              "DocumentMoniker": "D:\\Adata\\Hub\\eoew\\C\u002B\u002B\\lab04\\LinkStack.h",
+              "RelativeDocumentMoniker": "LinkStack.h",
+              "ToolTip": "D:\\Adata\\Hub\\eoew\\C\u002B\u002B\\lab04\\LinkStack.h",
+              "RelativeToolTip": "LinkStack.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-20T13:23:43.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinkStack.cpp",
+              "DocumentMoniker": "D:\\Adata\\Hub\\eoew\\C\u002B\u002B\\lab04\\LinkStack.cpp",
+              "RelativeDocumentMoniker": "LinkStack.cpp",
+              "ToolTip": "D:\\Adata\\Hub\\eoew\\C\u002B\u002B\\lab04\\LinkStack.cpp",
+              "RelativeToolTip": "LinkStack.cpp",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T13:23:42.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\Adata\\Hub\\eoew\\C\u002B\u002B\\lab04\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "D:\\Adata\\Hub\\eoew\\C\u002B\u002B\\lab04\\Main.cpp*",
+              "RelativeToolTip": "Main.cpp*",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAowEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T07:40:26.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

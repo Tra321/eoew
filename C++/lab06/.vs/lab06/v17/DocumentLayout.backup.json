@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Adata\\Hub\\eoew\\C\u002B\u002B\\lab06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A85E7ECD-9F22-4077-841D-D2C3E8D0A39A}|lab06.vcxproj|D:\\Adata\\Hub\\eoew\\C\u002B\u002B\\lab06\\Fac.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A85E7ECD-9F22-4077-841D-D2C3E8D0A39A}|lab06.vcxproj|solutionrelative:Fac.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85E7ECD-9F22-4077-841D-D2C3E8D0A39A}|lab06.vcxproj|D:\\Adata\\Hub\\eoew\\C\u002B\u002B\\lab06\\Hanoi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A85E7ECD-9F22-4077-841D-D2C3E8D0A39A}|lab06.vcxproj|solutionrelative:Hanoi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hanoi.cpp",
+              "DocumentMoniker": "D:\\Adata\\Hub\\eoew\\C\u002B\u002B\\lab06\\Hanoi.cpp",
+              "RelativeDocumentMoniker": "Hanoi.cpp",
+              "ToolTip": "D:\\Adata\\Hub\\eoew\\C\u002B\u002B\\lab06\\Hanoi.cpp",
+              "RelativeToolTip": "Hanoi.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-05T18:52:56.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fac.cpp",
+              "DocumentMoniker": "D:\\Adata\\Hub\\eoew\\C\u002B\u002B\\lab06\\Fac.cpp",
+              "RelativeDocumentMoniker": "Fac.cpp",
+              "ToolTip": "D:\\Adata\\Hub\\eoew\\C\u002B\u002B\\lab06\\Fac.cpp",
+              "RelativeToolTip": "Fac.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-05T18:52:00.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

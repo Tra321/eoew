@@ -1,49 +1,94 @@
 package dao.impl;
-import java.sql.Connection;
-import java.sql.PreparedStatement;
-import java.sql.ResultSet;
 
 import dao.AdminDao;
-import model.Dormitory;
-import model.admin;
-import model.student;
-import model.Manager;
+import model.Admin;
 import until.BaseDao;
 
-public class AdminDaoImpl implements AdminDao{
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.util.ArrayList;
+import java.util.List;
 
-    //管理员登录
+public class AdminDaoImpl implements AdminDao {
+
     @Override
-    public admin login(admin admin) {
-        Connection con = null;
-        PreparedStatement ps = null;
-        ResultSet rs = null;
-        try {
-            con = BaseDao.getCon();
-            String sql = "select * from admin where adminID=? and adminPassword=?";
-            ps = con.prepareStatement(sql);
-            ps.setString(1, admin.getAdminID());
-            ps.setString(2, admin.getAdminPassword());
-            rs = ps.executeQuery();
-            admin admins = null;
-            if(rs.next()) {
-                admins = new admin();
-                admins.setAdminID(rs.getString("adminID"));
-                admins.setAdminPassword(rs.getString("adminPassword"));
-                return admins;
+    public Admin login(Admin admin) {
+        String sql = "SELECT * FROM admin WHERE admin_id = ? AND admin_password = ?";
+        return BaseDao.executeQuery(rs -> {
+            if (rs.next()) {
+                return mapAdmin(rs);
             }
-            else {
-                return null;
-            }
-        } catch (Exception e) {
-            // TODO Auto-generated catch block
-            e.printStackTrace();
             return null;
-        } finally {
-            // 应添加资源关闭代码
-            try { if(rs != null) rs.close(); } catch(Exception e) {}
-            try { if(ps != null) ps.close(); } catch(Exception e) {}
-            try { if(con != null) con.close(); } catch(Exception e) {}
-        }
+        }, sql, admin.getAdminId(), admin.getAdminPassword());
     }
-}
+
+    @Override
+    public boolean changePassword(String adminId, String newPassword) {
+        String sql = "UPDATE admin SET admin_password = ? WHERE admin_id = ?";
+        return BaseDao.executeUpdate(sql, newPassword, adminId) > 0;
+    }
+
+    @Override
+    public Admin findById(String adminId) {
+        String sql = "SELECT * FROM admin WHERE admin_id = ?";
+        return BaseDao.executeQuery(rs -> {
+            if (rs.next()) {
+                return mapAdmin(rs);
+            }
+            return null;
+        }, sql, adminId);
+    }
+
+    @Override
+    public boolean add(Admin admin) {
+        String sql = "INSERT INTO admin (admin_id, admin_name, admin_password, phone, email) " +
+                     "VALUES (?, ?, ?, ?, ?)";
+        return BaseDao.executeUpdate(sql, 
+                admin.getAdminId(), 
+                admin.getAdminName(), 
+                admin.getAdminPassword(),
+                admin.getPhone(),
+                admin.getEmail()) > 0;
+    }
+
+    @Override
+    public boolean update(Admin admin) {
+        String sql = "UPDATE admin SET admin_name = ?, phone = ?, email = ? WHERE admin_id = ?";
+        return BaseDao.executeUpdate(sql, 
+                admin.getAdminName(),
+                admin.getPhone(),
+                admin.getEmail(),
+                admin.getAdminId()) > 0;
+    }
+
+    @Override
+    public boolean delete(String adminId) {
+        String sql = "DELETE FROM admin WHERE admin_id = ?";
+        return BaseDao.executeUpdate(sql, adminId) > 0;
+    }
+
+    @Override
+    public List<Admin> findAll() {
+        String sql = "SELECT * FROM admin";
+        return BaseDao.executeQuery(rs -> {
+            List<Admin> admins = new ArrayList<>();
+            while (rs.next()) {
+                admins.add(mapAdmin(rs));
+            }
+            return admins;
+        }, sql);
+    }
+    
+    /**
+     * 从ResultSet映射为Admin对象
+     */
+    private Admin mapAdmin(ResultSet rs) throws SQLException {
+        Admin admin = new Admin();
+        admin.setAdminId(rs.getString("admin_id"));
+        admin.setAdminName(rs.getString("admin_name"));
+        admin.setAdminPassword(rs.getString("admin_password"));
+        admin.setPhone(rs.getString("phone"));
+        admin.setEmail(rs.getString("email"));
+        return admin;
+    }
+} 

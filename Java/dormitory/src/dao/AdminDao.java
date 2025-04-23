@@ -1,29 +1,55 @@
 package dao;
 
-import model.Dormitory;
-import model.admin;
-import model.student;
-import model.Manager;
+import model.Admin;
+import java.util.List;
 
 public interface AdminDao {
-    public admin login(admin admin);
-
-    public void addDormitory(Dormitory dormitory);//增加宿舍
-    public void deleteDormitory(String dormitoryID);//删除宿舍
-    public void updateDormitory(Dormitory dormitory);//更新宿舍
-    public void selectOneDormitory(String dormitoryID);//查询一个宿舍
-    public void selectAllDormitory();//查询所有宿舍
-
-    public void addStudent(student student);//增加学生信息
-    public void deleteStudent(String studentID);//删除学生信息
-    public void updateStudent(student student);//更新学生信息
-    public void selectOneStudent(String studentID);//查询一个学生信息
-    public void selectAllStudent();//查询所有学生信息
-
-    public void addManager(Manager manager);//增加宿管信息
-    public void deleteManager(String managerID);//删除宿管信息
-    public void updateManager(Manager manager);//更新宿管信息
-    public void selectOneManager(String managerID);//查询一个宿管信息
-    public void selectAllManager();//查询所有宿管信息
-
-}
+    /**
+     * 管理员登录验证
+     * @param admin 包含登录信息的管理员对象
+     * @return 登录成功返回管理员对象，失败返回null
+     */
+    Admin login(Admin admin);
+    
+    /**
+     * 修改管理员密码
+     * @param adminId 管理员ID
+     * @param newPassword 新密码
+     * @return 修改成功返回true，失败返回false
+     */
+    boolean changePassword(String adminId, String newPassword);
+    
+    /**
+     * 根据ID查找管理员
+     * @param adminId 管理员ID
+     * @return 管理员对象，未找到返回null
+     */
+    Admin findById(String adminId);
+    
+    /**
+     * 添加新管理员
+     * @param admin 管理员对象
+     * @return 添加成功返回true，失败返回false
+     */
+    boolean add(Admin admin);
+    
+    /**
+     * 更新管理员信息
+     * @param admin 管理员对象
+     * @return 更新成功返回true，失败返回false
+     */
+    boolean update(Admin admin);
+    
+    /**
+     * 删除管理员
+     * @param adminId 管理员ID
+     * @return 删除成功返回true，失败返回false
+     */
+    boolean delete(String adminId);
+    
+    /**
+     * 获取所有管理员列表
+     * @return 管理员列表
+     */
+    List<Admin> findAll();
+} 

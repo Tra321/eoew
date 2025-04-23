@@ -9,7 +9,7 @@ public class BaseDao {
     // 数据库连接信息
     private static final String URL = "jdbc:mysql://localhost:3306/attendance_system?useSSL=false&serverTimezone=UTC";
     private static final String USER = "root";
-    private static final String PASSWORD = "password";
+    private static final String PASSWORD = "Mysql135!";
     
     static {
         try {

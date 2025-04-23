@@ -5,61 +5,72 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1b4d7c4-b9ba-4e97-ad68-27196e505189" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/../Warehouse/src/SimpleWarehouseSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Warehouse/src/SimpleWarehouseSystemDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Warehouse/src/WarehouseItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Warehouse/src/WarehouseManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Warehouse/src/WarehouseManagerDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Warehouse/src/warehouse_db.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dao/AttendanceRecordDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dao/EmployeeDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dao/LeaveRequestDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dao/impl/AttendanceRecordDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dao/impl/EmployeeDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dao/impl/LeaveRequestDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/AttendanceRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/LeaveRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/AttendanceService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/EmployeeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/LeaveService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/until/AttendanceMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/until/EmployeeMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/until/ExportUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/until/LeaveMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/until/LoginMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/dormitory1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/libs/mysql-connector-java-8.0.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/src/Daotest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/src/dao/AdminDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/src/dao/DormitoryDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/src/dao/ManagerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/src/dao/StudentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/src/dao/impl/AdminDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/src/dao/impl/DormitoryDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/src/dao/impl/ManagerDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/src/dao/impl/StudentDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/src/model/Dormitory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/src/model/Live.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/src/model/Manage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/src/model/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/src/model/admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/src/model/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/src/service/AdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/src/service/ManagerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/src/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/src/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/src/until/AdminMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/src/until/BaseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/src/until/DormitoryControlMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/src/until/DormitoryLookMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/src/until/ManagerControlMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/src/until/ManagerLookMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/src/until/ManagerMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/src/until/StuMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/src/until/StudentControlMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitory1/src/until/StudentLookMenu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Daotest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dao/AdminDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/AdminDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dao/CourseDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dao/ManagerDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dao/StudentDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dao/impl/AdminDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/impl/AdminDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dao/impl/DormitoryDaoImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dao/impl/ManagerDaoImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dao/impl/StudentDaoImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Dormitory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Live.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Manage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Manager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/admin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/service/AdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/AdminService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/service/ManagerService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/service/StudentService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/until/AdminMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/until/AdminMenu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/until/BaseDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/until/BaseDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/until/DormitoryControlMenu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/until/DormitoryLookMenu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/until/ManagerControlMenu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/until/ManagerLookMenu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/until/ManagerMenu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/until/StuMenu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/until/StudentControlMenu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/until/StudentLookMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dormitory2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dormitory2/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dormitory2/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dormitory2/.idea/dataSources/d02a9c98-9cfa-4529-8409-7d0ef370d8d2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dormitory2/.idea/dataSources/d02a9c98-9cfa-4529-8409-7d0ef370d8d2/storage_v2/_src_/schema/account_manager.m8MJ6Q.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dormitory2/.idea/dataSources/d02a9c98-9cfa-4529-8409-7d0ef370d8d2/storage_v2/_src_/schema/account_manager.m8MJ6Q.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dormitory2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dormitory2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dormitory2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dormitory2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dormitory2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dormitory2/dormitory2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dormitory2/libs/mysql-connector-java-8.0.18.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dormitory2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dormitory2/src/dao/AccountDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dormitory2/src/dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dormitory2/src/dao/impl/AccountDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dormitory2/src/dao/impl/UserDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dormitory2/src/model/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dormitory2/src/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dormitory2/src/service/AccountService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dormitory2/src/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dormitory2/src/util/DatabaseUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dormitory2/src/util/DbTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dormitory2/src/util/PasswordUtil.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,25 +96,32 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Adata/Hub/eoew/Java/dormitory/src",
+    "last_opened_file_path": "D:/Adata/Hub/eoew/Java/dormitory/libs/mysql-connector-java-8.0.18.jar",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.0",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true",
-    "应用程序.Main.executor": "Run"
+    "应用程序.Main.executor": "Run",
+    "应用程序.TestRunner.executor": "Debug",
+    "应用程序.test2.executor": "Run"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Adata\Hub\eoew\Java\dormitory\src" />
       <recent name="D:\Adata\Hub\eoew\Java\dormitory" />
+      <recent name="D:\Adata\Hub\eoew\Java\dormitory\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -122,7 +140,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745411693642</updated>
-      <workItem from="1745411694704" duration="5896000" />
+      <workItem from="1745411694704" duration="11810000" />
     </task>
     <servers />
   </component>
